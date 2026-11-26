@@ -1,0 +1,22 @@
+{
+  "wheel_id": 972,
+  "structure": "umbrella",
+  "slug": "melbourneeastkitchenrenovation-112",
+  "project": "kitchen-renovations-eastern-melbourne-glossary-4c17abe0d4c5ac43",
+  "parent_t1_ref": "melbourneeastkitchenrenovation-155",
+  "node_role": "feeder",
+  "money_target": "melbourneeastkitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations eastern melbourne glossary",
+  "intended_url": "https://aumedia.neocities.org/kitchen-renovations-eastern-melbourne-glossary-4c17abe0d4c5ac43/",
+  "tier": "T2",
+  "writeback_nonce": "b2806460f9d136b8",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/melbourneeastkitchenrenovation-155/",
+      "anchor": "https://sitesau.github.io/melbourneeastkitchenrenovation-155/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
